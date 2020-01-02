@@ -6,3 +6,9 @@ body {
   width: 256px;
   height: auto;
 }
+
+#logo {
+  width: 256px;
+  height: 250px;
+  margin: 0 auto;
+}

@@ -1,3 +1,8 @@
 body {
   background-color: #212529;
 }
+
+#logo img {
+  width: 256px;
+  height; 250px;
+}
